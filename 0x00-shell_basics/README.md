@@ -8,4 +8,7 @@ _3. Change current directory to home_
 **6. Adding UID and GID to listing**
 **7. Creating a dir in the /tmp/ directory**
 _8. Move betty?..lol_
-
+_9. Betty Otilo!_
+_10. Delete dir in /tmp folder_
+_11. Chang pwd to previous_
+_12. List accross dir_
