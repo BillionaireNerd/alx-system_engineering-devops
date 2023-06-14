@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n '1~2p'
+head -n $(($(wc -l < /dev/stdin) + 1) / 2) | tai -n +1
