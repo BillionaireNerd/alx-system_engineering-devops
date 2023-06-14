@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(bc <<< "scale=2; $BREATH ^ $LOVE")
+awk 'BEGIN {print ENVIRON["BREATH] ^ ENVIRON["LOVE"]}'
